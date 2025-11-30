@@ -27,3 +27,9 @@
     opacity: 1;
   }
 }
+
+@keyframes filter-image {
+  to {
+    filter: hue-rotate(360deg);
+  }
+}
