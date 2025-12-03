@@ -33,7 +33,6 @@
 /* header */
 
 .header {
-  box-sizing: content-box;
   margin-block: 98px;
   padding-block: clamp(
     122px,
