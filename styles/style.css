@@ -27,7 +27,6 @@
   border: 2px solid #000;
   background-color: #fff;
   inline-size: var(--content-inline-size);
-  max-inline-size: 100%;
 }
 
 /* header */
@@ -230,7 +229,6 @@
 }
 
 .card__like-button {
-  /* padding: 12.5px 35px; */
   padding-block: 12.5px;
   min-inline-size: 130px;
 }
